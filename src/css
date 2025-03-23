@@ -1,0 +1,5 @@
+body {
+
+    background: #DFFF00; 
+    text-align: center;
+}
