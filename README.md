@@ -1,6 +1,6 @@
 # AI-Generator
 
-<img src="AIGen.png" width="933" height="541">  
+<img src="AI1.png" width="933" height="541">  
 
 
 
